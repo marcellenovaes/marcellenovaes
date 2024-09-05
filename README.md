@@ -1,6 +1,6 @@
-### 🛸 Bem-vindo ao meu perfil no GitHub! 
+# 🛸 Bem-vindo ao meu perfil no GitHub!
 
-- 🌐 Estudante de Desenvolvimento Web
-- 👩🏼‍💻 Apaixonada por transformações digitais 
-- 🗃️ Interesse especial em análise e projeto de sistemas
+**- 🌐 Estudante de Desenvolvimento Web**
+- 👩🏼‍💻 Apaixonada por transformações digitais
+_- 🗃️ Interesse especial em análise e projeto de sistemas_
 -  ⚛️ Atualmente aprendendo sobre React JS
